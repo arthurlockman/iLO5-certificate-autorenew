@@ -1,0 +1,4 @@
+python-ilorest-library >= 4.7.0.0
+python-dotenv >= 1.0.0
+certbot >= 2.8.0
+certbot-dns-cloudflare >= 2.8.0

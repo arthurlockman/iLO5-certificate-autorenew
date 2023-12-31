@@ -1,0 +1,8 @@
+*.pem
+*.csr
+*.ini
+.env
+logs/
+work/
+config/
+__pycache__/
